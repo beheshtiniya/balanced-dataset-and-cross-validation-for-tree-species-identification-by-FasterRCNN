@@ -1,9 +1,9 @@
 
 ---
 
-### 📊 How to Compute Metrics Using Excel (`pseudo_labeling_results.xlsx`)
+### 📊 How to Compute Metrics Using Excel (`Calculating_results.xlsx`)
 
-To evaluate the classification performance at each pseudo-labeling threshold, follow the steps below:
+To evaluate the classification performance , follow the steps below:
 
 ---
 

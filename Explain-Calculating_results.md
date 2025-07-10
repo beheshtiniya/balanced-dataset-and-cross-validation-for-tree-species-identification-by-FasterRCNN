@@ -16,7 +16,7 @@ To evaluate the classification performance , follow the steps below:
    Open the file:
 
    ```
-   pseudo_labeling_results.xlsx
+   Calculating_results.xlsx
    ```
 
 3. **Navigate to the Sheet**
